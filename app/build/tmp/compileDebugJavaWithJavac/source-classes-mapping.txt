@@ -1,0 +1,2 @@
+com/androchef/faecdetector/BuildConfig.java
+ com.androchef.faecdetector.BuildConfig
